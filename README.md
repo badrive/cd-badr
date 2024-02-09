@@ -1,4 +1,4 @@
-### Hi, Im Badr </ Web Developer >👋
+### Hi, Im Badreddine Faras </ Web Developer >👋
 
 <!--
 **cd-badr/cd-badr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
