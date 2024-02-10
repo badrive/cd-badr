@@ -1,5 +1,7 @@
 ### Hi, Im Badreddine Faras </ Web Developer >👋
 
+<a href=”https://twitter.com/deepajarout"><img align=”left” src=”https://raw.githubusercontent.com/cd-badr/icons/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
+
 <!--
 **cd-badr/cd-badr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
