@@ -9,6 +9,7 @@
 <p align="left">Languages & Tools :</p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nodejs)](https://skillicons.dev)
+<br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,bash,git,linux)](https://skillicons.dev)
 
 <!--
