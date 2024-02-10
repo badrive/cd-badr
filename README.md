@@ -10,7 +10,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nodejs)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,bash,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,bash,git,linux,figma)](https://skillicons.dev)
 
 <!--
 **cd-badr/cd-badr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
