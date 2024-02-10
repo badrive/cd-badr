@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm BADR FARAS</h1>
-<h3 align="center"> </ Web Developer ></h3>
+<h3 align="center"> "Web Developer" ></h3>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=cd-badr)](https://github.com/cd-badr)
 
