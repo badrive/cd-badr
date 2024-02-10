@@ -1,6 +1,10 @@
 ### Hi, Im Badreddine Faras </ Web Developer >👋
+<h1 align="center">Hi 👋, I'm BADR FARAS</h1>
+<h3 align="center">Web Developer</h3>
 
-<a href=”https://twitter.com/deepajarout"><img align=”left” src=”https://raw.githubusercontent.com/cd-badr/icons/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=cd-badr)](https://github.com/cd-badr)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cd-badr&layout=compact)](https://github.com/cd-badr)
 
 <!--
 **cd-badr/cd-badr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
