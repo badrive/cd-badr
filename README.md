@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm BADR FARAS</h1>
 <h3 align="center"> "Web Developer" </h3>
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=cd-badr)](https://github.com/cd-badr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cd-badr_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cd-badr&layout=compact)](https://github.com/cd-badr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cd-badr&layout=donut&icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cd-badr/cd-badr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
