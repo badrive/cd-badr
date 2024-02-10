@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cd-badr&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">Languages & Tools :</p>
+<h3 align="left">Languages & Tools :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nodejs)](https://skillicons.dev)
 <br>
