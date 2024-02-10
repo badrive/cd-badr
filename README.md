@@ -1,4 +1,4 @@
-### Hi, Im Badreddine Faras </ Web Developer >👋
+
 <h1 align="center">Hi 👋, I'm BADR FARAS</h1>
 <h3 align="center">Web Developer</h3>
 
