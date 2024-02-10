@@ -2,11 +2,12 @@
 <h1 align="center">Hi 👋, I'm BADR FARAS</h1>
 <h3 align="center"> "Web Developer" </h3>
 <div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cd-badr&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cd-badr&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages & Tools :</h3>
+<h3 align="center">Languages & Tools :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,nodejs)](https://skillicons.dev)
 <br>
