@@ -11,7 +11,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,laravel)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,bash,git,npm,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,bash,git,npm,linux,figma,docker)](https://skillicons.dev)
 
 
 
