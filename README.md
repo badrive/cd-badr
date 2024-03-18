@@ -12,6 +12,8 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,laravel)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,bash,git,npm,linux,figma,docker)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=python,discordpy)](https://skillicons.dev)
 
 
 
