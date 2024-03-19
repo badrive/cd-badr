@@ -9,11 +9,10 @@
 
 <h3 align="left">Languages & Tools :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,laravel,python)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,bash,git,npm,linux,figma,docker)](https://skillicons.dev)
-<br>
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
 
 
 
