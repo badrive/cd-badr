@@ -13,7 +13,7 @@
 <br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,bash,git,npm,linux,figma,docker)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=python,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 
 
