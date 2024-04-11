@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cd-badr&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Familly :</h3>
+<h3 align="left">the family :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,python,c)](https://skillicons.dev)
 <br>
