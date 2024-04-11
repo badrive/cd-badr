@@ -7,9 +7,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cd-badr&layout=donut&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Languages & Tools :</h3>
+<h3 align="left">Familly :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,laravel,python,c,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,python,c)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,react,laravel,next)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,bash,git,npm,linux,figma,docker)](https://skillicons.dev)
 
